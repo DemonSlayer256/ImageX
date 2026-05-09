@@ -89,6 +89,7 @@ The program returns and prints an error if:
 
 - Only one filter may be used per invocation.
 - The output is always written as a BMP file with the same header format as the input.
+- A MATLAB/Octave version implementation is also done named as `matlab_filter.m` which can be run using octave. It has additional features. For more details please refer `MATLAB_VERSION.md`
 
 ## Acknowledgments
 
